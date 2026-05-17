@@ -1,0 +1,18 @@
+body {
+  background: #f6f7fb;
+  color: #20232a;
+  min-height: 100vh;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+.text-muted-small {
+  font-size: 0.92rem;
+}
+
+.dashboard-card {
+  border-radius: 22px;
+  box-shadow: 0 14px 42px rgba(24, 39, 75, 0.08);
+}

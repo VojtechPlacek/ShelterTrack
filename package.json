@@ -1,0 +1,13 @@
+{
+  "name": "sheltertrack",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "concurrently \"npm --prefix server start\" \"npm --prefix client start\"",
+    "start:server": "npm --prefix server start",
+    "start:client": "npm --prefix client start"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  }
+}

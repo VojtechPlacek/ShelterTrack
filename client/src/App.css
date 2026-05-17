@@ -1,0 +1,16 @@
+.dashboard-card {
+  border-radius: 18px;
+  border: 1px solid rgba(17, 24, 39, 0.08);
+}
+
+.card {
+  border-radius: 18px;
+}
+
+body {
+  background: #eef2ff;
+}
+
+button.btn-link {
+  color: #212529;
+}
